@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Arnav Ghag 👋
 
-<!--
-**arnavpghag/arnavpghag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20-year-old engineering student specializing in generative AI, data engineering, and embedded systems. 
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
+* **Languages:** Python, C/C++
+* **AI/ML:** LLM Engineering, Google Gemini, Hugging Face, Groq
+* **Hardware & Embedded:** STM32 Microcontrollers, Arduino UNO, Raspberry Pi Pico W
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Currently Working On
+* Prototyping and integrating generative AI models using Google AI Studio.
+* Developing embedded system projects on the STM32 hardware platform.
+* Expanding my knowledge in data engineering, DSA, and software architecture.
+
+
+
