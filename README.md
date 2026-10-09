@@ -1,6 +1,6 @@
 # Hi, I'm Arnav Ghag 👋
 
-I'm a 20-year-old engineering student specializing in generative AI, data engineering, and embedded systems. 
+I'm a 20-year-old engineering student studying in generative AI, data engineering, and embedded systems. 
 
 ## 🛠️ Tech Stack & Tools
 * **Languages:** Python, C/C++
